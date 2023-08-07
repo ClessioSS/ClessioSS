@@ -26,7 +26,7 @@
  ![node.dj](https://img.shields.io/badge/-Node.js-05122A?styke=flat&logo=node.js)
  ![typescript](https://img.shields.io/badge/-TypeScript-05122A?styke=flat&logo=typescript)
  ![python](https://img.shields.io/badge/-Python-05122A?styke=flat&logo=python)
- ![angular](https://img.shields.io/badge/-ANgular-05122A?styke=flat&logo=angular)
+ ![angular](https://img.shields.io/badge/-Angular-05122A?styke=flat&logo=angular)
 
 
  ### 📧Contact me
