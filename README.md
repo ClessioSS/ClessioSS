@@ -1,5 +1,12 @@
 ### Olá, eu sou o Cléssio 👋
 
+![ClessioSS GitHub stats](https://github-readme-stats.vercel.app/api?username=ClessioSS&show_icons=true&theme=transparent)
+
+
+
+
+
+
 <!--
 **ClessioSS/ClessioSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
